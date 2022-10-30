@@ -1,8 +1,8 @@
 # FixSketchupX
 
-FixSketchupX attempts to remove specular highlight from all materials in a `.x` model file.
+FixSketchupX attempts to fix the diffuse (set to white) and remove specular highlight from all materials in a `.x` model file.
 
-This tool is intended to be used before converting the `.x` model to `.o3d` model using `OmsiXConv.exe`.
+This tool is intended to be used after creating a `.x` model from Blender/Sketchup and before converting it to an `.o3d` model for use in OMSI.
 
 ## About this project
 
