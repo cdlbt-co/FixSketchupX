@@ -4,6 +4,10 @@ FixSketchupX attempts to fix the diffuse (set to white) and remove specular high
 
 This tool is intended to be used after creating a `.x` model from Blender/Sketchup and before converting it to an `.o3d` model for use in OMSI.
 
+## Download
+
+[Google Drive](https://drive.google.com/file/d/1yKtMVzTye_BYPaKgkNAKLDPkX_Qq4wFr/view?usp=share_link)
+
 ## About this project
 
 This program is written in C# with WPF using Visual Studio 2019. 
